@@ -28,6 +28,9 @@ Welcome to the comprehensive placement preparation guide for Computer Science st
 - [LeetCode](https://leetcode.com)
 - [TLE Eliminator](https://tle-eliminator.com)
 
+### LLD and Concurrency Resources
+- [LLDcoding](https://lldcoding.com/)
+
 ### System Design Resources
 
 - [Hello Interview](https://www.hellointerview.com/learn/system-design/in-a-hurry)
